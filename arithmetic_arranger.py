@@ -1,3 +1,5 @@
+"herramientas"
+
 def arithmetic_arranger(problems, display=False):
   answer = []
   string, string2, string3 = [], [], []
